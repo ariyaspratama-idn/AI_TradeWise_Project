@@ -1,0 +1,1673 @@
+2025-12-19 11:08:10.158 | INFO     | utils.logger:log:14 - Admin default dibuat: admin / admin123
+2025-12-19 11:08:10.162 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:08:12.468 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:08:27.442 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:13:10.163 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:13:28.187 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:18:10.165 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:18:29.043 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:20:30.502 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:20:32.074 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:23:10.176 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:23:29.880 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:25:31.485 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:25:32.706 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:28:10.177 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:28:32.275 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:30:34.016 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:30:34.198 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:33:10.178 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:33:33.765 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:35:34.903 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:35:35.104 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:38:10.206 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:38:34.852 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:40:39.968 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:40:40.311 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:43:10.280 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:43:37.214 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:45:55.054 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:45:57.832 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:48:10.282 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:48:59.221 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:50:55.752 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:50:58.553 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:53:10.283 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:53:26.895 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:53:30.768 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:54:00.019 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:55:56.642 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:55:59.459 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:58:10.286 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 11:58:27.721 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:58:31.487 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 11:59:00.732 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:00:57.377 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:01:00.271 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:03:10.289 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:03:29.241 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:03:32.149 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:04:01.726 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:05:58.036 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:06:00.854 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:08:10.290 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:08:29.957 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:08:32.812 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:09:02.514 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:10:58.730 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:11:01.596 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:13:10.292 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:13:30.649 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:13:33.476 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:14:03.377 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:15:59.350 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:16:02.584 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:18:10.293 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:18:31.432 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:18:34.140 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:19:04.139 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:21:00.117 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:21:03.404 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:23:10.293 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:23:32.267 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:23:34.989 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:24:05.347 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:26:02.008 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:26:05.371 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:28:10.305 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:28:35.856 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:28:35.918 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:29:12.555 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:29:51.759 | INFO     | utils.logger:log:14 - Updater error: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=1h&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000015E891AEE40>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-12-19 12:29:51.759 | INFO     | utils.logger:log:14 - Updater error: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=1h&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BBB540EBA0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-12-19 12:29:53.868 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:31:07.680 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:33:10.308 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:33:36.578 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:34:52.285 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:34:52.306 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:34:52.669 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:34:52.783 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:34:54.597 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:36:08.376 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:38:10.317 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:38:37.279 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:39:52.788 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:39:53.011 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:39:53.151 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:39:53.303 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:39:55.267 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:41:09.181 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:43:10.329 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:43:38.150 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:44:53.453 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:44:53.480 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:44:53.554 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:44:53.748 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:44:56.851 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:45:56.889 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:45:56.997 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:45:57.088 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:45:57.088 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:00.612 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:03.263 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:10.521 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:33.701 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:33.865 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:33.895 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:34.023 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:34.409 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:34.940 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:46:36.105 | INFO     | utils.logger:log:14 - [AI Chat] test_user: Analisis investasi bank saat ini -> [GPT-4o] Analisis: Analisis investasi bank saat ini... (Simulasi respon cerdas)
+2025-12-19 12:46:38.618 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:47:29.447 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham itu apa -> [GPT-4o] Analisis: saham itu apa... (Simulasi respon cerdas)
+2025-12-19 12:48:10.333 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:48:38.873 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:49:52.067 | INFO     | utils.logger:log:14 - [AI Chat] guest: apa itu saham -> [GPT-4o] Analisis: apa itu saham... (Simulasi respon cerdas)
+2025-12-19 12:49:54.205 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:01.726 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:11.228 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:34.417 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:34.447 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:34.501 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:34.511 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:34.864 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:35.614 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:51:39.364 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:53:10.338 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:54:49.678 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:54:53.297 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:54:54.932 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:02.500 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:11.915 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:35.064 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:35.077 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:35.151 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:35.380 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:36.360 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:56:40.652 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:58:10.366 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 12:59:50.193 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:59:54.083 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 12:59:55.941 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:03.403 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:12.701 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:35.575 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:35.600 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:35.719 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:35.984 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:37.247 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:01:41.493 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:03:10.368 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:04:50.795 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:04:54.946 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:04:56.456 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:04.152 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:13.960 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:36.292 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:36.308 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:36.455 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:36.711 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:37.948 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:06:42.196 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:08:10.371 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:09:51.460 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:09:55.637 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:09:57.354 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:00.402 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:04.702 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:14.676 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:36.832 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:36.974 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:37.046 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:37.185 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:38.953 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:11:43.085 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:13:10.374 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:14:52.172 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:14:56.540 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:14:58.101 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:05.848 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:16.638 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:38.013 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:38.080 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:38.112 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:38.620 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:40.205 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:16:44.936 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:18:10.387 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:19:38.640 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:19:41.346 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:19:56.810 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:19:58.032 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:20:01.223 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:06.845 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:17.559 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:38.717 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:39.031 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:39.102 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:39.169 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:42.287 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:21:45.376 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:23:10.389 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:24:39.564 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:24:42.058 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:24:57.664 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:24:59.040 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:25:02.408 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:08.809 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:18.833 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:39.638 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:40.063 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:40.064 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:40.064 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:43.203 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:26:47.156 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:28:10.401 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:29:40.628 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:29:42.884 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:29:58.399 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:29:59.765 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:30:02.904 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:30:35.735 | INFO     | utils.logger:log:14 - [AI Chat] test_user: Halo AI -> Ini adalah jawaban simulasi AI.
+2025-12-19 13:31:10.325 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:19.729 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:41.201 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:41.208 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:41.218 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:42.442 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:44.229 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:31:47.835 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:33:10.414 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:34:41.441 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:34:43.792 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:34:59.267 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:35:00.549 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:35:03.393 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:11.417 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:20.937 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:41.673 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:41.695 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:41.878 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:42.993 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:45.004 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:36:48.619 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:37:59.713 | INFO     | utils.logger:log:14 - [AI Chat] guest: Berikan analisis untuk pair EURUSD -> [GPT-4o] Analisis: Berikan analisis untuk pair EURUSD... (Simulasi respon cerdas)
+2025-12-19 13:38:10.416 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:39:42.372 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:39:44.658 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:39:59.984 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:40:01.477 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:40:04.559 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:13.555 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:21.862 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:42.433 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:42.466 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:42.661 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:43.944 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:45.709 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:41:49.376 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:42:44.116 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes saham -> [GPT-4o] Analisis: tes saham... (Simulasi respon cerdas)
+2025-12-19 13:43:10.419 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:44:44.284 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:44:45.811 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:45:00.858 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:45:02.246 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:45:05.289 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:14.257 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:22.639 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:42.954 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:43.188 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:43.205 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:44.612 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:46.450 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:46:50.541 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:48:10.425 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:49:45.066 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:49:46.627 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:50:01.904 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:50:03.486 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:50:06.195 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:15.035 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:23.439 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:44.003 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:44.221 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:44.779 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:46.069 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:47.873 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:51:51.201 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:53:10.426 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:54:45.812 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:54:47.389 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:55:02.842 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:55:04.195 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:55:06.908 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:15.785 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:24.347 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:45.027 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:45.028 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:45.369 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:48.482 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:48.630 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:56:52.073 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:58:10.427 | INFO     | utils.logger:log:14 - Updater error: 'MarketDataFetcher' object has no attribute 'fetch_latest'
+2025-12-19 13:58:48.514 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 13:59:46.744 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:03:50.308 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:04:47.483 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:08:51.140 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:09:48.282 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:13:51.869 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:14:49.876 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:18:52.987 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:19:51.245 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:23:53.716 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:24:51.974 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:28:55.231 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:29:52.521 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:33:55.788 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:34:53.193 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:38:56.545 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:39:53.918 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:43:57.608 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:44:55.725 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:48:58.984 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:49:21.387 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [GPT-4o] Analisis: tes... (Simulasi respon cerdas)
+2025-12-19 14:49:56.476 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:54:06.037 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:54:57.188 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:59:06.550 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 14:59:57.943 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:04:07.473 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:04:59.020 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:09:08.503 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:10:00.104 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:14:11.702 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:15:01.003 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:19:12.521 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:20:01.950 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:24:13.313 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:24:56.229 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [GPT-4o] Analisis: tes... (Simulasi respon cerdas)
+2025-12-19 15:25:02.715 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:29:14.034 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:30:03.188 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:33:46.979 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:34:46.981 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:34:58.235 | INFO     | utils.logger:log:14 - [AI Chat] guest: Coba buat alert sembarang. -> [GPT-4o] Analisis: Coba buat alert sembarang.... (Simulasi respon cerdas)
+2025-12-19 15:35:03.895 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:35:07.437 | INFO     | utils.logger:log:14 - [AI Chat] guest: Coba buat alert sembarang. -> [GPT-4o] Analisis: Coba buat alert sembarang.... (Simulasi respon cerdas)
+2025-12-19 15:35:46.982 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:36:46.983 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:37:46.984 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:38:46.984 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:38:49.569 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:38:54.608 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:39:54.610 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:40:04.616 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:40:54.611 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:41:54.612 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:42:31.660 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:43:31.661 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:44:31.662 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:45:05.350 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:45:31.663 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:46:31.664 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:47:31.665 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:48:31.666 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:49:31.667 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:50:06.092 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:50:31.669 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:51:05.418 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:51:06.871 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:51:31.669 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:52:05.420 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:52:06.872 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:52:31.670 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:53:05.421 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:53:06.874 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:53:31.671 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:53:32.800 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham sast ini bagaimana -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 15:54:05.422 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:54:06.875 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:54:31.672 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:55:05.424 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:55:06.877 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:55:07.009 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 15:55:31.673 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:55:49.573 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:55:50.113 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:56:05.425 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:56:49.575 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:56:50.115 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:57:05.426 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:57:49.577 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:57:50.116 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:58:05.428 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:58:49.578 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:58:50.117 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:59:05.429 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:59:49.580 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 15:59:50.118 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:00:05.431 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:00:07.780 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:00:49.582 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:00:50.119 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:01:05.432 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:01:49.583 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:01:50.122 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:02:05.434 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:02:49.584 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:02:50.126 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:03:05.437 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:03:49.586 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:03:50.129 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:04:05.438 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:04:49.587 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:04:50.130 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:05:05.440 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:05:10.607 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:05:49.589 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:05:50.131 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:06:05.441 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:06:49.590 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:06:50.133 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:07:05.443 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:07:49.592 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:07:50.134 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:08:05.445 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:08:49.594 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:08:50.140 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:09:05.446 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:09:49.595 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:09:50.141 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:10:05.448 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:10:12.091 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:10:49.597 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:10:50.143 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:11:05.450 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:11:49.598 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:11:50.144 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:12:05.451 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:12:49.599 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:12:50.145 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:13:05.453 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:13:49.601 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:13:50.146 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:14:05.455 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:14:49.602 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:14:50.147 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:15:05.456 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:15:12.915 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:15:49.603 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:15:50.148 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:16:05.458 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:16:49.605 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:16:50.150 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:17:05.459 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:17:49.606 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:17:50.150 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:18:05.461 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:18:49.608 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:18:50.152 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:19:05.462 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:19:49.609 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:19:50.153 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:20:05.464 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:20:13.648 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:20:49.611 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:20:50.161 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:21:05.465 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:21:49.612 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:21:50.162 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:22:05.467 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:22:49.613 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:22:50.164 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:23:05.468 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:23:49.614 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:23:50.164 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:24:05.470 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:24:49.616 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:24:50.165 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:25:05.471 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:25:14.341 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:25:49.618 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:25:50.166 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:26:05.473 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:26:49.619 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:26:50.167 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:27:05.475 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:27:49.620 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:27:50.169 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:28:05.476 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:28:49.622 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:28:50.170 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:29:05.478 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:29:49.623 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:29:50.171 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:30:05.479 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:30:15.037 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:30:49.625 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:30:50.172 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:31:05.480 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:31:49.627 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:31:50.174 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:32:05.481 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:32:49.628 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:32:50.175 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:33:05.483 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:33:49.629 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:33:50.176 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:34:05.484 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:34:49.631 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:34:50.177 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:35:05.486 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:35:17.059 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:35:49.633 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:35:50.178 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:36:05.488 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:36:49.634 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:36:50.180 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:37:05.489 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:37:49.636 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:37:50.181 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:38:05.491 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:38:50.182 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:39:50.183 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:40:17.787 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:40:50.184 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:41:50.185 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:42:50.186 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:43:50.187 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:44:50.188 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:45:18.472 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:45:50.189 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:46:50.190 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:47:50.191 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:48:50.192 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:49:16.441 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:49:17.918 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:49:50.193 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:50:16.443 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:50:17.919 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:50:19.132 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:50:50.194 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:51:16.445 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:51:17.921 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:51:50.195 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:52:16.447 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:52:17.922 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:52:50.196 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:53:16.448 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:53:17.924 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:53:28.689 | INFO     | utils.logger:log:14 - [AI Chat] guest: analisis saham saat ini -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 16:53:50.198 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:54:01.022 | INFO     | utils.logger:log:14 - [AI Chat] guest: Halo, apakah kamu online? -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 16:54:16.458 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:54:17.925 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:54:38.682 | INFO     | utils.logger:log:14 - [AI Chat] guest: Halo, apakah kamu online? -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 16:54:50.203 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:55:16.460 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:55:17.927 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:55:19.720 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 16:55:50.206 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:56:16.462 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:56:17.928 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:56:24.669 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:56:24.819 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:57:16.464 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:57:24.674 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:57:24.820 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:57:37.306 | INFO     | utils.logger:log:14 - [AI Chat] guest: Halo, tes koneksi 123 -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 16:58:16.469 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:58:24.684 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:58:24.830 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:59:16.485 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:59:24.685 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 16:59:24.831 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:00:16.536 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:00:23.227 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:00:24.690 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:00:24.854 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:00:44.210 | INFO     | utils.logger:log:14 - [AI Chat] guest: Halo, apakah ini Gemini? -> [API Error] Masalah koneksi ke Google Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:01:16.574 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:01:24.693 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:01:24.862 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:01:52.516 | INFO     | utils.logger:log:14 - [AI Chat] guest: Halo, ini percobaan kedua. -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 17:02:16.585 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:02:24.694 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:02:24.863 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:02:51.907 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:02:54.449 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:03:16.586 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:03:51.915 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:03:54.524 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:04:06.974 | INFO     | utils.logger:log:14 - [AI Chat] guest: analisis saham -> [API Error] Masalah koneksi ke OpenAI: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-19 17:04:16.588 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:04:51.916 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:04:54.525 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:05:03.968 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:05:04.461 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:05:16.590 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:05:24.270 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:05:38.082 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:05:53.512 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke Google Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:06:03.970 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:06:04.462 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:06:16.591 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:07:00.441 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:07:02.165 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:07:16.593 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:08:00.443 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:08:02.172 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:08:16.594 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:09:00.444 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:09:02.173 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:09:16.602 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:10:00.445 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:10:02.174 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:10:11.993 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:10:16.828 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:10:25.061 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:10:54.248 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke Google Gemini: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:11:00.446 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:11:02.175 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:11:16.829 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:00.448 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:02.176 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:15.304 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:16.831 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:17.256 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:36.613 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:12:38.330 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:13:06.183 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke Google Gemini: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:13:17.258 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:13:36.615 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:13:38.331 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:13:54.754 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:14:07.829 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke Google Gemini: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:14:17.259 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:14:26.118 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:14:27.657 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:14:36.617 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:15:19.126 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:15:21.054 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:15:25.581 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:15:27.658 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:15:55.220 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:16:16.458 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes -> [API Error] Masalah koneksi ke Google Gemini: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 43.282134105s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-12-19 17:16:19.128 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:16:21.067 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:16:27.660 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:17:19.129 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:17:27.654 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:17:29.314 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:17:56.701 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:17:58.541 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:18:29.316 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:18:32.805 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes saham -> Baik, saya AI TradeWise.
+
+Terima kasih telah menguji sistem. Berdasarkan data pasar umum yang tersedia saat ini, berikut adalah analisis singkatnya:
+
+### Analisis Sinyal Pasar Umum
+
+| Metrik | Data | Keterangan |
+| :--- | :--- | :--- |
+| **Sinyal Perdagangan** | **HOLD** | Tidak ada sinyal kuat untuk Beli atau Jual. |
+| **Tingkat Keyakinan** | Neutral | Kepastian pasar berada di level menengah. |
+| **Sentimen Pasar** | Neutral | Pasar bergerak datar atau mencari katalis baru. |
+
+**Kesimpulan Sementara:**
+Sinyal pasar saat ini menunjukkan posisi **HOLD (Tahan)** dengan sentimen dan keyakinan yang **Netral**. Ini mengindikasikan bahwa para pelaku pasar sedang bersikap hati-hati dan menunggu adanya katalis signifikan atau konfirmasi arah yang jelas sebelum mengambil posisi agresif.
+
+***
+
+**Untuk analisis saham yang lebih mendalam, mohon sebutkan kode saham (ticker) spesifik yang ingin Anda uji.** Saya akan menyajikan data teknikal, fundamental, dan sinyal yang lebih rinci untuk saham tersebut.
+
+*(Peringatan: Analisis ini bukan merupakan saran investasi profesional. Selalu lakukan riset Anda sendiri sebelum membuat keputusan trading.)*
+2025-12-19 17:18:53.582 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes saham -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:18:56.702 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:18:58.542 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:19:29.317 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:19:56.704 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:19:58.544 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:20:26.340 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:20:29.318 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:20:56.715 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:20:58.545 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:21:29.319 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:21:56.717 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:21:58.546 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:22:06.789 | INFO     | utils.logger:log:14 - [AI Chat] guest: apa itu saham -> Sebagai AI TradeWise, saya akan menjelaskan konsep dasar **saham** dengan jelas dan lugas.
+
+---
+
+## Apa Itu Saham? (Definisi & Konsep Utama)
+
+**Saham** adalah **bukti kepemilikan (atau klaim)** atas suatu perusahaan yang terdaftar secara publik.
+
+Sederhananya, ketika Anda membeli satu lembar saham sebuah perusahaan (misalnya, saham PT. Bank Central Asia Tbk.), Anda secara resmi menjadi **pemilik sebagian kecil** dari perusahaan tersebut.
+
+### 1. Bukti Kepemilikan (Ekuitas)
+
+Dalam bahasa keuangan, saham sering disebut sebagai **ekuitas**.
+
+*   **Penerbitan:** Perusahaan menerbitkan saham untuk mengumpulkan modal (dana) dari publik atau investor.
+*   **Kepemilikan:** Semakin banyak saham yang Anda miliki, semakin besar porsi kepemilikan Anda di perusahaan tersebut.
+
+### 2. Hak-Hak Pemegang Saham
+
+Sebagai pemilik, meskipun hanya sebagian kecil, Anda memiliki beberapa hak dasar:
+
+| Hak Pemegang Saham | Penjelasan |
+| :--- | :--- |
+| **Hak Dividen** | Berhak menerima pembagian keuntungan (dividen) jika perusahaan membukukan laba dan memutuskan untuk membagikannya. |
+| **Hak Suara (Voting)** | Berhak untuk memberikan suara dalam Rapat Umum Pemegang Saham (RUPS) untuk memutuskan kebijakan penting perusahaan. |
+| **Klaim Aset** | Memiliki klaim atas aset perusahaan jika perusahaan dilikuidasi, meskipun klaim ini berada di urutan terakhir setelah utang dan obligasi dilunasi. |
+
+### 3. Cara Mendapatkan Keuntungan dari Saham
+
+Ada dua cara utama investor mendapatkan keuntungan dari kepemilikan saham:
+
+| Sumber Keuntungan | Mekanisme |
+| :--- | :--- |
+| **Capital Gain (Kenaikan Harga)** | Anda menjual saham dengan harga yang lebih tinggi daripada harga saat Anda membelinya. Ini adalah sumber keuntungan yang paling umum di pasar. |
+| **Dividen** | Perusahaan membagikan sebagian keuntungannya kepada pemegang saham secara berkala (misalnya, setiap tahun atau semester). |
+
+### 4. Risiko Utama
+
+Meskipun saham menawarkan potensi keuntungan tinggi, risikonya juga tinggi (disebut **risiko pasar**):
+
+*   **Capital Loss (Penurunan Harga):** Jika harga saham turun di bawah harga beli Anda, dan Anda menjualnya, Anda akan menderita kerugian.
+*   **Risiko Perusahaan:** Kinerja perusahaan sangat mempengaruhi harga saham. Jika perusahaan merugi, harga saham cenderung jatuh.
+
+---
+
+**Kesimpulan Inti:**
+
+> Saham adalah instrumen investasi yang mewakili kepemilikan Anda atas suatu perusahaan. Investasi saham memungkinkan Anda berpartisipasi dalam pertumbuhan dan keuntungan perusahaan, namun juga mengekspos Anda pada fluktuasi harga pasar.
+2025-12-19 17:22:28.826 | INFO     | utils.logger:log:14 - [AI Chat] guest: apa itu saham -> [API Error] Masalah koneksi ke OpenAI (Client.__init__() got an unexpected keyword argument 'proxies'). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:22:29.321 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:22:56.719 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:22:58.547 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:23:29.322 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:23:56.103 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:23:56.824 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:23:58.461 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:24:54.634 | INFO     | utils.logger:log:14 - [AI Chat] guest: apa itu saham -> [API Error] Masalah koneksi ke OpenAI (Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}). 
+SARAN: Coba pilih 'Google Gemini 1.5 Flash' di dropdown atas, itu gratis & lebih stabil.
+2025-12-19 17:24:56.111 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:24:56.837 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:24:58.462 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:25:27.091 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:25:56.113 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:25:56.839 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:25:58.463 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:26:56.114 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:26:56.841 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:26:58.464 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:27:56.115 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:27:56.842 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:27:58.465 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:28:56.118 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:28:56.843 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:28:58.466 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:29:49.549 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:29:49.771 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:29:56.844 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:30:28.080 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:30:49.550 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:30:49.773 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:30:56.846 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:30:56.847 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham -> ⚠️ **Kuota/Saldo OpenAI Anda Habis** (`insufficient_quota`).
+
+API Key Anda valid, tetapi akun Anda tidak memiliki kredit yang cukup.
+**Solusi:**
+1. Gunakan model **Google Gemini** (Gratis & Stabil) di menu dropdown atas.
+2. Atau isi saldo kredit di akun OpenAI Anda.
+2025-12-19 17:31:49.551 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:31:49.774 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:31:56.848 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:32:28.645 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:32:28.691 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:32:56.849 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:32:57.637 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham -> ⚠️ **Anda sudah sampai limit.** Silakan pindah ke **Google Gemini Flash**.
+2025-12-19 17:33:15.532 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham -> Selamat datang. Saya TradeWise.
+
+Berdasarkan data pasar yang tersedia saat ini:
+
+| Indikator | Data |
+| :--- | :--- |
+| **Sinyal Perdagangan** | **HOLD (TAHAN)** |
+| **Keyakinan (Confidence)** | Netral |
+| **Sentimen Pasar** | Netral |
+
+Karena baik sinyal maupun keyakinan berada di posisi **Netral** dan sinyal utama adalah **HOLD**, ini menyarankan bahwa pasar saat ini berada dalam fase konsolidasi atau kurangnya katalis yang kuat untuk pergerakan signifikan.
+
+### Rekomendasi TradeWise:
+
+1.  **Untuk Posisi yang Sudah Ada:** Disarankan untuk mempertahankan posisi Anda saat ini. Pertimbangkan untuk menaikkan level *stop-loss* Anda untuk melindungi keuntungan yang sudah ada, tetapi hindari penjualan panik atau pembelian agresif.
+2.  **Untuk Entry Baru:** Tunggu konfirmasi sinyal *BUY* atau *SELL* yang lebih tegas. Jangan mengambil risiko tinggi selama periode Netral ini.
+
+---
+
+Untuk memberikan analisis saham yang lebih spesifik, mohon berikan informasi lebih lanjut:
+
+1.  **Apakah Anda mencari analisis pada *ticker* tertentu (misalnya, BBCA, ASII)?**
+2.  **Sektor pasar mana yang menjadi fokus Anda saat ini (misalnya, Teknologi, Perbankan, Energi)?**
+2025-12-19 17:33:28.646 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:33:28.692 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:33:56.850 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:34:28.647 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:34:28.693 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:34:38.486 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:34:40.493 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:34:56.852 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:35:28.601 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:35:38.492 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:35:40.495 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:35:56.853 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:36:38.493 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:36:40.496 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:36:46.311 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:36:46.336 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:36:56.854 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:37:20.313 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:37:22.145 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:37:46.337 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:37:51.925 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham -> Selamat datang. Saya adalah AI TradeWise.
+
+Berdasarkan data pasar yang Anda sediakan, berikut adalah analisis dan rekomendasi saat ini terkait pertanyaan umum Anda tentang "saham":
+
+### Analisis Data Pasar
+
+| Parameter | Data | Interpretasi |
+| :--- | :--- | :--- |
+| **Sinyal Utama** | **HOLD** | Model tidak menemukan alasan kuat untuk memulai posisi beli (BUY) atau keluar dari posisi (SELL) saat ini. |
+| **Keyakinan Sinyal** | **Neutral** | Keyakinan terhadap sinyal saat ini sedang rendah, menunjukkan ketidakpastian pasar. |
+| **Sentimen Pasar** | **Neutral** | Sentimen pasar umum berada di zona netral, tidak ada dorongan signifikan dari sisi optimisme atau pesimisme. |
+
+### Rekomendasi TradeWise
+
+Mengingat sinyal **HOLD** dengan keyakinan dan sentimen **Neutral**, AI TradeWise menyarankan strategi berikut untuk pasar saham secara umum:
+
+1.  **Status Aksi:** **Tahan Posisi (HOLD).**
+2.  **Strategi:** **Pengamatan dan Konsolidasi.** Pasar saat ini sedang mencari arah. Disarankan untuk meminimalkan aksi trading baru dan mengamati perkembangan data lebih lanjut.
+3.  **Fokus:** Lakukan analisis fundamental atau teknikal tambahan pada saham individual yang saat ini Anda pegang, namun hindari keputusan drastis sampai muncul sinyal konfirmasi (misalnya, Keyakinan berubah menjadi Kuat atau sinyal berubah menjadi BUY/SELL).
+
+***
+
+### Untuk Analisis Lebih Lanjut
+
+Karena pertanyaan Anda sangat luas ("saham"), untuk memberikan panduan yang lebih akurat, mohon berikan informasi lebih spesifik:
+
+1.  **Saham Tertentu:** Apakah Anda tertarik pada sektor tertentu, atau saham spesifik (misalnya, saham teknologi, saham perbankan)?
+2.  **Kerangka Waktu:** Apa tujuan investasi Anda (trading harian, jangka pendek, atau investasi jangka panjang)?
+
+Mohon berikan detail tersebut agar saya dapat menjalankan model analisis yang lebih terperinci.
+
+***
+*Disclaimer: Informasi ini disediakan oleh AI TradeWise berdasarkan data yang Anda masukkan dan bukan merupakan nasihat keuangan atau investasi yang dipersonalisasi. Selalu lakukan riset Anda sendiri sebelum mengambil keputusan trading.*
+2025-12-19 17:38:20.314 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:38:22.146 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:38:46.339 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:39:09.307 | INFO     | utils.logger:log:14 - [AI Chat] guest: sahan -> Selamat datang. Saya AI TradeWise.
+
+Berdasarkan data pasar yang tersedia, berikut adalah analisis singkat mengenai kondisi umum saham/pasar saat ini:
+
+### Analisis Pasar TradeWise
+
+| Indikator | Data | Interpretasi |
+| :--- | :--- | :--- |
+| **Sinyal Perdagangan** | **HOLD** | Tidak ada sinyal kuat untuk masuk (beli) maupun keluar (jual). Pasar cenderung konsolidasi atau menunggu katalis baru. |
+| **Tingkat Kepercayaan** | **Neutral** | Keyakinan terhadap arah pergerakan pasar rendah atau tidak jelas. |
+| **Sentimen Pasar** | **Neutral** | Sentimen investor saat ini cenderung hati-hati, tanpa dorongan optimisme atau pesimisme yang kuat. |
+
+---
+
+### Kesimpulan untuk "Saham"
+
+Kondisi "Neutral" dan sinyal "HOLD" mengindikasikan bahwa ini adalah masa yang tepat untuk:
+
+1.  **Observasi:** Pantau perkembangan fundamental dan teknikal tanpa membuat keputusan perdagangan yang agresif.
+2.  **Konsolidasi Portofolio:** Jika Anda sudah memiliki saham, pertimbangkan untuk menahan posisi sambil menunggu konfirmasi arah yang lebih jelas.
+3.  **Analisis Spesifik:** Pasar yang netral membutuhkan fokus pada analisis saham individual.
+
+Untuk rekomendasi yang lebih spesifik atau mendalam, mohon tentukan:
+
+1.  **Sektor/Indeks** yang Anda minati (misalnya, teknologi, komoditas, atau indeks utama).
+2.  **Tujuan Investasi** Anda (jangka pendek/trading atau jangka panjang/investasi).
+2025-12-19 17:39:20.315 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:39:22.148 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:39:46.340 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:40:20.317 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:40:22.150 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:40:29.346 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:40:46.341 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:41:20.318 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:41:22.151 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:41:46.342 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:42:20.320 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:42:22.177 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:42:46.343 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:43:20.321 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:43:22.187 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:43:46.344 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:44:20.322 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:44:22.189 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:44:46.345 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:44:48.981 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:44:50.773 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:45:09.492 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 1, 'asset': 'TSLA', 'condition': 'price_above', 'target_value': 1000.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T17:45:09.491179', 'status': 'active'}
+2025-12-19 17:45:30.091 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:45:46.346 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:45:48.983 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:45:50.776 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:46:46.347 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:46:48.985 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:46:50.777 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:47:46.348 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:47:48.986 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:47:50.779 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:48:46.350 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:48:48.988 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:48:50.780 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:49:46.351 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:49:48.989 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:49:50.782 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:50:30.943 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:50:46.353 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:50:48.991 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:50:50.784 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:51:46.354 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:51:48.992 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:51:50.786 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:52:46.355 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:52:48.994 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:52:50.787 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:53:46.357 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:53:48.995 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:53:50.788 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:54:46.358 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:54:48.996 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:54:50.789 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:55:31.658 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 17:55:46.359 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:55:48.998 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:55:50.791 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:56:46.361 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:56:49.000 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:56:50.792 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:57:46.362 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:57:49.002 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:57:50.794 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:58:46.363 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:58:49.003 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:58:50.795 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:59:46.364 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:59:49.004 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 17:59:50.797 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:00:32.722 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:00:46.365 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:00:49.006 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:00:50.799 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:01:41.746 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:01:43.652 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:01:49.007 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:02:41.751 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:02:43.654 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:02:49.010 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:03:41.753 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:03:43.655 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:03:49.011 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:03:56.438 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:03:58.665 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:04:35.665 | INFO     | utils.logger:log:14 - [AI Chat] guest: tes saham -> Selamat datang. AI TradeWise beroperasi dan siap memberikan analisis berdasarkan data pasar yang tersedia.
+
+Berdasarkan data yang Anda berikan:
+
+### Analisis Pasar TradeWise
+
+| Indikator | Data | Keterangan |
+| :--- | :--- | :--- |
+| **Sinyal Perdagangan** | **HOLD** | Tahan posisi saat ini. |
+| **Tingkat Kepercayaan** | Neutral | Sinyal belum memiliki validitas yang sangat tinggi. |
+| **Sentimen Pasar** | Neutral | Pasar tidak menunjukkan bias bullish atau bearish yang kuat. |
+
+**Kesimpulan TradeWise:**
+
+Sinyal **HOLD** yang dikombinasikan dengan sentimen dan kepercayaan yang **Netral** menunjukkan bahwa saat ini pasar berada dalam fase konsolidasi atau menunggu katalis baru. Tidak ada sinyal kuat untuk melakukan aksi beli (BUY) atau jual (SELL) secara agresif.
+
+**Rekomendasi:**
+
+Disarankan untuk **mempertahankan posisi investasi Anda saat ini** dan memantau pergerakan pasar untuk sinyal konfirmasi berikutnya yang memiliki tingkat kepercayaan lebih tinggi.
+
+***
+
+Untuk analisis lebih spesifik, mohon berikan nama saham atau indeks yang ingin Anda tinjau.
+2025-12-19 18:04:43.657 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:04:56.440 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:04:58.667 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:05:12.457 | INFO     | utils.logger:log:14 - [AI Chat] guest: mengenali saham yang sehat -> Sebagai AI TradeWise, tugas saya adalah memberikan kerangka kerja yang komprehensif untuk menganalisis dan mengidentifikasi investasi yang kokoh.
+
+Mengenali "saham yang sehat" berarti melihat melampaui fluktuasi harga harian dan fokus pada **kesehatan fundamental, stabilitas finansial, dan prospek jangka panjang** perusahaan. Saham sehat adalah investasi yang idealnya dapat Anda pegang selama bertahun-tahun tanpa kekhawatiran besar.
+
+Berikut adalah panduan terperinci, dibagi menjadi tiga pilar utama, untuk mengenali saham yang sehat:
+
+---
+
+## PILAR 1: KESEHATAN FUNDAMENTAL DAN PROFITABILITAS
+
+Ini adalah inti dari kemampuan perusahaan untuk menghasilkan uang dan tumbuh.
+
+| Indikator | Metrik Kunci | Penjelasan/Target |
+| :--- | :--- | :--- |
+| **Pertumbuhan Pendapatan (Revenue)** | **CAGR (Compound Annual Growth Rate)** | Pendapatan harus menunjukkan pertumbuhan yang stabil dan konsisten selama 5-10 tahun terakhir. Hindari perusahaan yang pendapatannya stagnan atau sangat fluktuatif. |
+| **Profitabilitas Inti** | **Marjin Laba Bersih (Net Profit Margin)** | Persentase laba yang dipertahankan setelah semua biaya. Marjin yang tinggi dan stabil menunjukkan efisiensi operasional. |
+| **Efisiensi Penggunaan Modal** | **ROE (Return on Equity)** | Mengukur seberapa efektif perusahaan menggunakan modal pemegang saham untuk menghasilkan laba. ROE yang secara konsisten di atas 15% sering dianggap sangat baik. |
+| **Laba Per Saham (Earnings Per Share)** | **EPS Growth** | EPS harus terus meningkat dari tahun ke tahun. Ini menunjukkan bahwa nilai yang dihasilkan per lembar saham terus bertambah. |
+| **Kesehatan Valuation** | **Rasio P/E (Price-to-Earnings)** | Mengukur berapa kali laba perusahaan dibayar oleh investor. Saham sehat harus memiliki P/E yang wajar, relatif terhadap rata-rata industri dan tingkat pertumbuhannya. Hindari P/E yang terlalu tinggi tanpa pembenaran pertumbuhan yang sangat cepat. |
+| **Kesehatan Divestasi** | **Rasio Pembayaran Dividen (Payout Ratio)** | Jika perusahaan membayar dividen, rasio ini harus di bawah 60% (idealnya 30%-50%). Ini memastikan perusahaan masih memiliki cukup laba untuk diinvestasikan kembali dalam pertumbuhan. |
+
+## PILAR 2: KESEHATAN FINANSIAL DAN STRUKTUR MODAL
+
+Saham sehat memiliki pondasi finansial yang kuat dan tidak terbebani utang yang berlebihan.
+
+| Indikator | Metrik Kunci | Penjelasan/Target |
+| :--- | :--- | :--- |
+| **Arus Kas (Cash Flow)** | **Operating Cash Flow (OCF) vs. Net Income** | OCF harus selalu positif dan idealnya lebih besar dari laba bersih. Ini menunjukkan bahwa laba yang dicatat adalah *kas nyata*, bukan hanya laba akuntansi yang belum dibayarkan. |
+| **Beban Utang** | **Debt-to-Equity Ratio (DER)** | Mengukur seberapa besar utang perusahaan dibandingkan dengan ekuitas. Untuk sebagian besar industri (kecuali keuangan), DER yang rendah (misalnya, di bawah 1.0 atau 100%) menunjukkan risiko finansial yang lebih rendah. |
+| **Kemampuan Bayar Utang** | **Interest Coverage Ratio** | Mengukur kemampuan perusahaan membayar beban bunga utang menggunakan laba operasionalnya (EBIT). Rasio yang tinggi (misalnya, di atas 5x) menunjukkan utang dapat dikelola dengan mudah. |
+| **Modal Kerja** | **Current Ratio (Rasio Lancar)** | Mengukur kemampuan perusahaan membayar kewajiban jangka pendek. Target idealnya adalah di atas 1.0 (aset lancar lebih besar dari kewajiban lancar). |
+
+## PILAR 3: FAKTOR KUALITATIF DAN KEUNGGULAN KOMPETITIF
+
+Angka saja tidak cukup. Saham sehat harus memiliki keunggulan kompetitif yang berkelanjutan (Moat) dan manajemen yang solid.
+
+| Faktor Kualitatif | Pertimbangan Kunci | Implikasi |
+| :--- | :--- | :--- |
+| **"Moat" (Parit) Kompetitif** | Apakah perusahaan memiliki keunggulan unik (teknologi, merek kuat, biaya produksi rendah, atau paten) yang sulit ditiru pesaing? | Moat melindungi marjin keuntungan jangka panjang. Contoh: Apple (merek), Microsoft (ekosistem). |
+| **Kualitas Manajemen** | Apakah manajemen memiliki rekam jejak yang baik dalam alokasi modal? Apakah mereka transparan dan memiliki integritas? | Kepemimpinan yang kuat dan etis adalah kunci untuk pertumbuhan yang berkelanjutan dan etika perusahaan yang baik. |
+| **Prospek Industri** | Apakah perusahaan berada di industri yang sedang berkembang (sektor teknologi, energi terbarukan) atau industri yang mengalami penurunan (sektor tradisional yang terdisrupsi)? | Bahkan perusahaan yang hebat akan kesulitan jika industri intinya sedang sekarat. |
+| **Rencana Masa Depan** | Apakah perusahaan memiliki visi yang jelas untuk pertumbuhan di masa depan dan rencana investasi yang masuk akal (R&D, ekspansi)? | Saham sehat adalah saham yang tidak hanya baik saat ini, tetapi memiliki potensi untuk menjadi lebih besar di masa depan. |
+
+---
+
+## Kesimpulan TradeWise
+
+Mengenali saham yang sehat memerlukan analisis yang **holistik dan komparatif**.
+
+1.  **Analisis Holistik:** Jangan hanya terpaku pada satu rasio (misalnya, P/E rendah). Rasio rendah bisa berarti saham murah, tetapi juga bisa berarti fundamentalnya buruk. Lihat semua pilar secara bersamaan.
+2.  **Analisis Komparatif:** Selalu bandingkan metrik perusahaan dengan pesaing langsungnya dan dengan rata-rata historis perusahaan itu sendiri. (Misalnya, P/E 20 mungkin murah untuk sektor teknologi, tetapi mahal untuk sektor utilitas).
+3.  **Fokus Jangka Panjang:** Saham yang sehat mungkin menghadapi volatilitas jangka pendek (seperti yang ditunjukkan oleh data pasar saat ini: **HOLD/Neutral**), tetapi kesehatan fundamentalnya memastikan nilai investasi akan tumbuh seiring waktu.
+
+Sebagai TradeWise, saya sarankan untuk mencari perusahaan yang memenuhi sebagian besar kriteria di Pilar 1 dan 2, dan memiliki keunggulan kompetitif yang jelas (Pilar 3) sebelum melakukan investasi.
+2025-12-19 18:05:33.799 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:05:43.659 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:05:56.442 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:05:58.669 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:06:43.660 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:06:56.444 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:06:58.670 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:07:43.662 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:07:56.445 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:07:58.671 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:08:43.663 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:08:56.449 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:08:58.673 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:09:16.795 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 2, 'asset': 'BTC/USD', 'condition': 'price_above', 'target_value': 100.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T18:09:16.793535', 'status': 'active'}
+2025-12-19 18:09:44.147 | INFO     | utils.logger:log:14 - Alert triggered: 🔔 ALERT: BTC/USD telah mencapai 94649.0 (price_above 100.0)!
+2025-12-19 18:09:44.158 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:09:56.451 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:09:58.675 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:10:34.510 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:10:44.159 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:10:56.453 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:10:58.677 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:11:44.160 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:11:56.455 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:11:58.679 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:12:24.041 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:12:25.977 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:12:44.161 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:12:56.196 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 3, 'asset': 'BTC/USD', 'condition': 'price_above', 'target_value': 100.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T18:12:56.194134', 'status': 'active'}
+2025-12-19 18:13:24.622 | INFO     | utils.logger:log:14 - Alert triggered: 🔔 ALERT: BTC/USD telah mencapai 94563.0 (price_above 100.0)!
+2025-12-19 18:13:24.623 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:13:25.979 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:13:44.163 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:14:07.123 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 4, 'asset': 'BTC/USD', 'condition': 'price_below', 'target_value': 5000.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T18:14:07.121559', 'status': 'active'}
+2025-12-19 18:14:24.624 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:14:25.981 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:14:44.165 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:15:24.626 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:15:25.982 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:15:35.297 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:15:44.166 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:16:24.627 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:16:25.983 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:16:44.168 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:17:24.629 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:17:25.985 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:17:44.169 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:18:24.631 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:18:25.987 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:18:44.171 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:19:24.632 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:19:25.989 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:19:44.172 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:20:24.634 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:20:25.990 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:20:35.871 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:20:44.173 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:21:24.635 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:21:25.992 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:21:44.175 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:22:24.637 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:22:25.994 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:22:44.176 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:23:24.639 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:23:25.995 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:23:44.177 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:24:24.640 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:24:25.996 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:24:44.179 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:25:24.642 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:25:25.998 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:25:36.572 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:25:44.181 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:26:24.644 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:26:25.999 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:26:44.182 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:27:24.646 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:27:26.001 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:27:44.183 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:28:24.647 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:28:26.003 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:28:44.185 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:29:24.649 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:29:26.004 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:29:44.204 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:30:24.650 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:30:26.006 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:30:37.296 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:30:44.205 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:31:24.652 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:31:26.007 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:31:44.206 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:32:24.653 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:32:26.014 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:32:44.207 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:33:24.654 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:33:26.015 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:33:44.208 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:34:24.656 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:34:26.017 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:34:44.209 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:35:24.657 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:35:26.019 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:35:39.764 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:35:44.210 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:36:24.659 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:36:26.022 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:36:44.212 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:37:24.661 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:37:26.024 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:37:44.213 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:38:24.663 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:38:26.025 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:38:44.214 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:39:24.665 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:39:26.027 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:39:44.216 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:40:24.667 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:40:26.029 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:40:38.125 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:40:39.709 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:40:40.506 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:40:44.218 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:41:34.842 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 5, 'asset': 'BTC/USD', 'condition': 'price_below', 'target_value': 10000000000.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T18:41:34.841088', 'status': 'active'}
+2025-12-19 18:41:39.033 | INFO     | utils.logger:log:14 - Alert triggered: 🔔 ALERT: BTC/USD telah mencapai 94630.0 (price_below 10000000000.0)!
+2025-12-19 18:41:39.034 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:41:39.712 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:41:44.219 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:42:39.035 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:42:39.714 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:42:44.220 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:43:39.037 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:43:39.715 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:43:42.161 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 6, 'asset': 'GOOGL', 'condition': 'price_below', 'target_value': 10000000000.0, 'channel': 'whatsapp', 'created_at': '2025-12-19T18:43:42.159405', 'status': 'active'}
+2025-12-19 18:43:44.223 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:44:39.039 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:44:39.718 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:44:44.225 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:45:39.041 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:45:39.721 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:45:41.373 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:45:44.226 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:46:39.043 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:46:39.723 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:46:44.227 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:47:39.045 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:47:39.725 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:47:44.229 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:48:39.046 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:48:39.726 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:48:44.230 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:49:39.047 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:49:39.727 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:49:44.231 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:50:39.049 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:50:39.729 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:50:42.171 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:50:44.232 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:51:39.050 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:51:39.731 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:51:44.233 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:52:39.052 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:52:39.733 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:52:44.234 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:53:39.054 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:53:39.735 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:53:44.236 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:54:39.056 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:54:39.737 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:54:44.238 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:55:35.549 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:55:38.227 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:55:39.058 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:55:42.900 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 18:56:35.556 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:56:38.229 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:56:39.060 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:57:35.558 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:57:38.231 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:57:39.061 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:58:35.560 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:58:38.233 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:58:39.063 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:59:38.234 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:59:53.048 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 18:59:54.839 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:00:21.591 | INFO     | utils.logger:log:14 - Alert baru ditambahkan: {'id': 7, 'asset': 'ETH/USD', 'condition': 'price_below', 'target_value': 10000000000.0, 'channel': 'whatsapp', 'contact': '+6285156618435', 'created_at': '2025-12-19T19:00:21.590214', 'status': 'active'}
+2025-12-19 19:00:39.051 | INFO     | utils.logger:log:14 - Alert triggered: 🔔 ALERT: ETH/USD telah mencapai 3530.0 (price_below 10000000000.0)!
+2025-12-19 19:00:39.052 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:00:43.744 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:00:53.050 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:00:54.842 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:01:39.053 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:01:53.051 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:01:54.844 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:02:39.054 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:02:53.053 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:02:54.846 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:03:39.056 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:03:53.054 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:03:54.848 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:04:39.057 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:04:53.056 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:04:54.849 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:05:39.058 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:05:44.639 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:05:53.057 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:05:54.851 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:06:39.060 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:06:53.058 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:06:54.852 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:07:39.061 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:07:53.060 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:07:54.855 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:08:39.062 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:08:53.062 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:08:54.856 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:09:39.063 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:09:53.064 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:09:54.858 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:10:39.065 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:10:45.377 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:10:53.069 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:10:54.860 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:11:39.066 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:11:53.072 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:11:54.862 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:12:39.068 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:12:53.073 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:12:54.864 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:13:39.069 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:13:53.075 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:13:54.865 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:14:39.070 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:14:53.077 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:14:54.867 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:15:39.072 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:15:45.999 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:15:53.079 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:15:54.870 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:16:39.074 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:16:53.081 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:16:54.871 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:17:39.076 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:17:53.083 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:17:54.873 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:18:39.077 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:18:53.085 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:18:54.874 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:19:39.079 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:19:53.086 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:19:54.876 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:20:39.080 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:20:46.577 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:20:53.088 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:20:54.878 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:21:39.081 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:21:53.091 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:21:54.880 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:22:39.083 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:22:53.093 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:22:54.882 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:23:39.084 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:23:53.094 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:23:54.883 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:24:39.086 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:24:53.096 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:24:54.886 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:25:39.088 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:25:47.572 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:25:53.098 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:25:54.889 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:26:39.089 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:26:53.100 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:26:54.891 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:27:39.091 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:27:53.103 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:27:54.893 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:28:39.093 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:28:53.104 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:28:54.895 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:29:39.094 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:29:53.106 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:29:54.897 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:30:39.096 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:30:49.121 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:30:53.108 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:30:54.900 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:31:39.098 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:31:53.119 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:32:53.161 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:31:54.902 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:32:55.029 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:32:39.099 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:33:39.103 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:34:39.104 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:35:39.105 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:35:50.175 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:36:39.107 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:37:39.108 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:38:39.110 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:39:39.112 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:40:39.113 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:40:51.063 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:40:58.856 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:41:01.573 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:41:39.118 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:41:47.727 | INFO     | utils.logger:log:14 - [AI Chat] guest: saham yang lagi bagus apa ? -> Sebagai AI TradeWise, saya dapat memberikan informasi berdasarkan data pasar yang ada.
+
+Saat ini, berdasarkan **Data Pasar** yang tersedia:
+
+* **Sinyal Data:** **HOLD** dengan tingkat keyakinan **Neutral**.
+* **Sentimen Pasar:** **Neutral**.
+
+**Kesimpulan:**
+
+Data pasar saat ini menunjukkan sinyal **HOLD** dengan sentimen **Neutral**. Dalam kondisi ini, tidak ada sinyal kuat yang menunjukkan bahwa ada saham tertentu yang "lagi bagus" atau layak dibeli segera.
+
+**Rekomendasi Umum TradeWise:**
+
+1. **Jaga Posisi:** Jika Anda sudah memiliki saham, pertimbangkan untuk menjaga posisi (HOLD) sambil memantau perkembangan lebih lanjut.
+2. **Bersikap Selektif:** Jika Anda ingin membeli, fokuslah pada saham-saham dengan fundamental yang kuat dan memiliki potensi jangka panjang, bukan hanya yang sedang naik dalam jangka pendek.
+3. **Tunggu Konfirmasi:** Tunggu hingga ada sinyal yang lebih kuat (misalnya, sinyal **BUY** dengan tingkat keyakinan Tinggi, atau perubahan positif pada sentimen pasar) sebelum melakukan pembelian besar.
+
+Karena preferensi model disetel ke **'auto'**, sistem sedang memproses data untuk mengidentifikasi potensi peluang jika ada pergeseran sinyal. Saya sarankan Anda tetap memantau sinyal dari TradeWise secara berkala.
+2025-12-19 19:41:58.858 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:42:01.575 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:42:39.119 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:42:40.605 | INFO     | utils.logger:log:14 - [AI Chat] guest: lalu saham man saja coba sebutkan -> Berdasarkan data pasar yang Anda berikan:
+
+| Metrik | Data |
+| :--- | :--- |
+| **Sinyal Utama** | **HOLD (Tahan)** |
+| **Confidence** | **Neutral** |
+| **Sentimen Pasar** | **Neutral** |
+
+Sebagai AI TradeWise, tugas saya adalah memberikan rekomendasi yang didukung oleh data.
+
+**Interpretasi TradeWise:**
+
+Sinyal **HOLD** dengan kepercayaan **Neutral** menunjukkan bahwa saat ini tidak ada katalis kuat untuk aksi beli (BUY) atau aksi jual (SELL) di pasar secara umum.
+
+**Oleh karena itu, kami tidak menghasilkan daftar saham spesifik yang direkomendasikan untuk dibeli atau dijual saat ini.**
+
+### Tindakan yang Disarankan oleh Sinyal "HOLD"
+
+Jika Anda bertanya "saham man saja" yang relevan dengan sinyal ini, jawabannya adalah:
+
+1.  **Jika Anda Sudah Memiliki Portofolio:**
+    *   Pertahankan saham yang sudah Anda miliki (Hold the position).
+    *   Jangan menambah posisi baru (Avoid buying more).
+    *   Jangan panik menjual (Avoid panic selling).
+    *   **Fokus:** Amati pergerakan sektor dan saham secara individual.
+
+2.  **Jika Anda Belum Memiliki Portofolio:**
+    *   Sebaiknya **Tunggu dan Amati**.
+    *   Jangan masuk ke pasar sebelum sinyal `BUY` atau `SELL` yang kuat muncul.
+
+**Kesimpulan:**
+
+TradeWise hanya akan menyebutkan daftar saham spesifik ketika sinyal pasar berubah menjadi **BUY (Beli)** atau **SELL (Jual)** dengan tingkat kepercayaan yang memadai. Dalam kondisi "HOLD/Neutral", kami menyarankan kehati-hatian dan pengamatan pasar secara umum.
+2025-12-19 19:42:58.860 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:43:01.577 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:43:38.801 | INFO     | utils.logger:log:14 - [AI Chat] guest: iya sebutkan nama saham nya yang  Metrik	Data Sinyal Utama	HOLD (Tahan) Confidence	Neutral Sentimen Pasar	Neutral aga saya kihat dan cai pofil peusahaannya -> Berdasarkan data pasar yang Anda berikan:
+
+**Sentimen Pasar adalah:** **Netral**
+
+**Penjelasan:**
+
+Sentimen "Netral" menunjukkan bahwa tidak ada dorongan yang kuat di pasar, baik ke arah *bullish* (optimis/membeli) maupun *bearish* (pesimis/menjual).
+
+Ini berarti:
+
+1. **Keseimbangan:** Ada keseimbangan relatif antara pembeli dan penjual.
+2. **Aksi Diam:** Para pelaku pasar cenderung menahan diri, menunggu katalis atau konfirmasi yang jelas sebelum mengambil posisi signifikan.
+3. **Sinyal Konfirmasi:** Sinyal utama (*signal\_data*) adalah 'HOLD' dengan kepercayaan 'Neutral', yang semakin memperkuat indikasi bahwa pasar berada dalam fase konsolidasi atau menunggu.
+
+Secara ringkas, pasar saat ini berada dalam mode "tunggu dan lihat".
+2025-12-19 19:43:39.121 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:43:58.861 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:44:01.578 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:44:39.123 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:44:58.862 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:45:01.580 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:45:39.124 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:45:51.817 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:45:58.865 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:46:01.581 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:46:39.125 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:46:58.867 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:47:01.582 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:47:39.127 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:47:58.868 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:48:01.584 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:48:39.128 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:48:58.870 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:49:01.585 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:49:39.130 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:49:58.871 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:50:01.586 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:50:39.131 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:50:52.679 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:50:58.873 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:51:01.588 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:51:39.133 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:51:58.875 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:52:01.589 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:52:39.134 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:52:58.876 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:53:01.591 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:53:39.136 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:53:58.878 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:54:01.593 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:54:39.137 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:54:58.879 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:55:01.594 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:55:39.139 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:55:53.460 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 19:55:58.881 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:56:01.595 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:56:39.140 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:56:58.882 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:57:01.597 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:57:39.141 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:57:58.884 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:58:01.599 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:58:39.143 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:58:58.886 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:59:01.601 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:59:39.145 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 19:59:58.887 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:00:01.602 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:00:39.146 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:00:54.289 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:00:58.888 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:01:01.604 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:01:39.148 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:01:58.891 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:02:01.606 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:02:39.149 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:02:58.894 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:03:01.608 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:03:39.150 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:03:58.895 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:04:01.609 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:04:39.151 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:04:58.897 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:05:01.611 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:05:39.152 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:05:55.092 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:05:58.898 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:06:01.613 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:06:39.153 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:06:58.900 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:07:01.614 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:07:39.154 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:07:58.902 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:08:01.616 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:08:39.156 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:08:58.904 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:09:01.618 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:09:39.158 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:09:58.904 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:10:01.619 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:10:39.160 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:10:56.101 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:10:58.906 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:11:01.621 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:11:39.161 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:11:58.908 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:12:01.623 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:12:39.162 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:12:58.910 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:13:01.625 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:13:39.164 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:13:58.912 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:14:01.626 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:14:39.166 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:14:58.914 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:15:01.628 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:15:39.167 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:15:56.930 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:15:58.916 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:16:01.630 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:16:39.169 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:16:58.918 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:17:01.632 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:17:39.170 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:17:58.920 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:18:01.634 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:18:39.171 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:18:58.922 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:19:01.636 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:19:39.172 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:19:58.924 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:20:01.638 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:20:39.174 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:20:57.665 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:20:58.925 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:21:01.640 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:21:39.175 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:21:58.927 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:22:01.641 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:22:39.177 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:22:58.929 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:23:01.643 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:23:39.178 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:23:58.930 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:24:01.645 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:24:39.179 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:24:58.932 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:25:01.647 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:25:39.180 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:25:58.429 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:25:58.934 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:26:01.648 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:26:39.181 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:26:58.936 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:27:01.650 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:27:39.182 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:27:58.939 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:28:01.652 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:28:39.183 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:28:58.941 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:29:01.658 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:29:39.185 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:29:58.942 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:30:01.660 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:30:39.187 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:30:58.945 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:30:59.220 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:31:01.664 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:31:39.188 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:31:58.946 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:32:01.667 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:32:39.189 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:32:58.948 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:33:01.668 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:33:39.191 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:33:58.950 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:34:01.670 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:34:39.192 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:34:58.952 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:35:01.672 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:35:39.193 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:35:58.954 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:36:00.234 | INFO     | utils.logger:log:14 - Data pasar diperbarui otomatis.
+2025-12-19 20:36:01.674 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:36:39.195 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:36:58.956 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:37:01.675 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:37:39.196 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:37:58.958 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:38:01.677 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:38:39.198 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:38:58.960 | INFO     | utils.logger:log:14 - Market check complete.
+2025-12-19 20:39:01.679 | INFO     | utils.logger:log:14 - Market check complete.

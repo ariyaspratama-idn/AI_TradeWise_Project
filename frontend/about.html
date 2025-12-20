@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tentang Kami - AI TradeWise</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+
+<body>
+  <header class="navbar">
+    <div class="logo">AI TradeWise</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Beranda</a></li>
+        <li><a href="index.html#fitur">Fitur</a></li>
+        <li><a href="market_analysis.html">Analisis Pasar</a></li>
+        <li><a href="chat.html">Konsultasi AI</a></li>
+        <li><a href="about.html" class="active">Tentang</a></li>
+        <li><a href="contact.html">Kontak</a></li>
+        <li>
+          <button id="theme-toggle"
+            style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-primary);">
+            <i class="fa-solid fa-moon"></i>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero" style="min-height: 40vh;">
+    <h1>Tentang AI TradeWise</h1>
+    <p>
+      Mempower investor dengan kecerdasan buatan untuk masa depan finansial yang lebih baik.
+    </p>
+  </section>
+
+  <section class="fitur">
+    <div class="container" style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+      <h2>Siapa Kami?</h2>
+      <p style="margin-bottom: 2rem;">
+        AI TradeWise adalah platform investasi cerdas yang menggabungkan analisis pasar tradisional dengan kekuatan
+        Artificial Intelligence.
+        Misi kami adalah mendemokratisasi akses ke analisis keuangan tingkat institusi bagi investor ritel.
+      </p>
+
+      <h2>Visi & Misi</h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li
+          style="background:var(--bg-card); padding: 1rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 5px var(--shadow-color);">
+          <strong>Visi:</strong> Menjadi pendamping investasi nomor satu yang terpercaya bagi trader di Indonesia.
+        </li>
+        <li
+          style="background:var(--bg-card); padding: 1rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 5px var(--shadow-color);">
+          <strong>Misi:</strong> Menyediakan data real-time, analisis akurat, dan edukasi yang mudah dipahami melalui
+          teknologi AI.
+        </li>
+      </ul>
+
+      <h2>Tim Pengembang</h2>
+      <div class="card" style="text-align: center; margin-top: 2rem;">
+        <h3>Developer</h3>
+        <p>Rama (Lead Developer)</p>
+        <p>Fokus pada pengembangan sistem full-stack dan integrasi AI.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 TradeWise AI. Platform investasi cerdas dengan teknologi multi-model.</p>
+  </footer>
+
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    const body = document.body;
+    const icon = toggleBtn.querySelector('i');
+
+    // Check saved preference
+    if (localStorage.getItem('theme') === 'dark') {
+      body.classList.add('dark-mode');
+      icon.classList.remove('fa-moon');
+      icon.classList.add('fa-sun');
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      body.classList.toggle('dark-mode');
+
+      if (body.classList.contains('dark-mode')) {
+        localStorage.setItem('theme', 'dark');
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+      } else {
+        localStorage.setItem('theme', 'light');
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+      }
+    });
+  </script>
+</body>
+
+</html>

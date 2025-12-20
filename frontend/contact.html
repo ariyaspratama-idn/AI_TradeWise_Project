@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kontak Kami - AI TradeWise</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">AI TradeWise</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="index.html#fitur">Fitur</a></li>
+                <li><a href="market_analysis.html">Analisis Pasar</a></li>
+                <li><a href="chat.html">Konsultasi AI</a></li>
+                <li><a href="about.html">Tentang</a></li>
+                <li><a href="contact.html" class="active">Kontak</a></li>
+                <li>
+                    <button id="theme-toggle"
+                        style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-primary);">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero" style="min-height: 40vh;">
+        <h1>Hubungi Kami</h1>
+        <p>
+            Punya pertanyaan atau masukan? Kami siap membantu perjalanan investasi Anda.
+        </p>
+    </section>
+
+    <section class="fitur">
+        <div class="container" style="max-width: 600px; margin: 0 auto; padding: 2rem;">
+            <div class="card">
+                <h2>Formulir Kontak</h2>
+                <form action="#" style="display: flex; flex-direction: column; gap: 0.5rem; margin-top: 1.5rem;">
+                    <div>
+                        <label for="name">Nama Lengkap</label>
+                        <input type="text" id="name" placeholder="Nama Anda">
+                    </div>
+
+                    <div>
+                        <label for="email">Email</label>
+                        <input type="email" id="email" placeholder="email@contoh.com">
+                    </div>
+
+                    <div>
+                        <label for="message">Pesan</label>
+                        <textarea id="message" rows="5" placeholder="Tulis pesan Anda di sini..."></textarea>
+                    </div>
+
+                    <button type="submit" class="btn-primary"
+                        style="border: none; cursor: pointer; font-size: 1rem;">Kirim Pesan</button>
+                </form>
+            </div>
+
+            <div style="margin-top: 3rem; text-align: center;">
+                <h3>Informasi Lainnya</h3>
+                <p>Email: support@aitradewise.com</p>
+                <p>Alamat: Jakarta, Indonesia</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 TradeWise AI. Platform investasi cerdas dengan teknologi multi-model.</p>
+    </footer>
+
+    <script>
+        const toggleBtn = document.getElementById('theme-toggle');
+        const body = document.body;
+        const icon = toggleBtn.querySelector('i');
+
+        // Check saved preference
+        if (localStorage.getItem('theme') === 'dark') {
+            body.classList.add('dark-mode');
+            icon.classList.remove('fa-moon');
+            icon.classList.add('fa-sun');
+        }
+
+        toggleBtn.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+
+            if (body.classList.contains('dark-mode')) {
+                localStorage.setItem('theme', 'dark');
+                icon.classList.remove('fa-moon');
+                icon.classList.add('fa-sun');
+            } else {
+                localStorage.setItem('theme', 'light');
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
+            }
+        });
+    </script>
+</body>
+
+</html>

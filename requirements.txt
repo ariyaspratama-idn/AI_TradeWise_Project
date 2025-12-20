@@ -1,0 +1,15 @@
+flask==3.0.0
+python-dotenv==1.0.1
+requests==2.32.3
+pyjwt==2.9.0
+pydantic==2.9.2
+schedule==1.2.1
+openai==1.53.0
+loguru==0.7.2
+# pandas==2.2.0
+python-multipart==0.0.9
+email-validator==2.2.0
+# textblob==0.17.1
+twilio==9.3.5
+
+# gunicorn==21.2.0

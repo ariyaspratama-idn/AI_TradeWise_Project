@@ -1,0 +1,7 @@
+[
+  {"symbol":"AAPL","price":173.45,"change":-0.62,"market_cap":"2.7T"},
+  {"symbol":"MSFT","price":387.55,"change":0.12,"market_cap":"2.6T"},
+  {"symbol":"NVDA","price":1200.11,"change":1.45,"market_cap":"3.2T"},
+  {"symbol":"TSLA","price":205.30,"change":-2.15,"market_cap":"600B"},
+  {"symbol":"BBRI","price":4600,"change":0.4,"market_cap":"50B"}
+]
